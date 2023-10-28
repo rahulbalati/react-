@@ -1,3 +1,5 @@
+#It is our basic first program we deleted all the unnecessary files made it simple to just print our program
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
